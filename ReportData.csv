@@ -1,0 +1,222 @@
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 0, 'Neutral': 11, 'Sad': 0, 'Surprise': 0}",[],0,1,11
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 5, 'Happy': 0, 'Neutral': 56, 'Sad': 4, 'Surprise': 5}",[5],5,10,56
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 2, 'Sad': 13, 'Surprise': 1}",[0],13,1,2
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 1, 'Happy': 0, 'Neutral': 16, 'Sad': 5, 'Surprise': 25}",[],2,26,16
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 4, 'Sad': 11, 'Surprise': 5}",[],11,5,4
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 12, 'Happy': 43, 'Neutral': 32, 'Sad': 6, 'Surprise': 34}",[4],49,46,32
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 5, 'Happy': 0, 'Neutral': 27, 'Sad': 13, 'Surprise': 1}",[],13,6,27
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 4, 'Sad': 0, 'Surprise': 2}",[],0,2,4
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 21, 'Sad': 6, 'Surprise': 4}",[0],1,4,21
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 23, 'Sad': 9, 'Surprise': 4}",[0],4,4,23
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 5, 'Sad': 7, 'Surprise': 0}",[],7,0,5
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 8, 'Sad': 15, 'Surprise': 0}",[],15,0,8
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 9, 'Sad': 4, 'Surprise': 0}",[],4,0,9
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 16, 'Sad': 6, 'Surprise': 0}",[],6,0,16
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 20, 'Sad': 6, 'Surprise': 0}",[],6,0,20
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 5, 'Disgust': 0, 'Fear': 1, 'Happy': 2, 'Neutral': 40, 'Sad': 34, 'Surprise': 4}","[0, 3]",6,5,40
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 2, 'Happy': 6, 'Neutral': 33, 'Sad': 47, 'Surprise': 30}",[2],53,32,33
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 28, 'Disgust': 0, 'Fear': 49, 'Happy': 10, 'Neutral': 17, 'Sad': 15, 'Surprise': 0}",[],9,49,17
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 0, 'Happy': 1, 'Neutral': 13, 'Sad': 0, 'Surprise': 1}",[],2,1,13
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 9, 'Disgust': 0, 'Fear': 1, 'Happy': 1, 'Neutral': 22, 'Sad': 8, 'Surprise': 1}",[0],6,2,22
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 9, 'Disgust': 0, 'Fear': 1, 'Happy': 1, 'Neutral': 23, 'Sad': 38, 'Surprise': 1}","[0, 1]",36,2,23
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 9, 'Disgust': 0, 'Fear': 1, 'Happy': 3, 'Neutral': 23, 'Sad': 65, 'Surprise': 1}","[0, 1]",65,2,23
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 35, 'Sad': 7, 'Surprise': 0}",[],1,0,35
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 5, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 47, 'Sad': 11, 'Surprise': 0}",[],5,0,47
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 0, 'Neutral': 12, 'Sad': 23, 'Surprise': 0}",[],23,1,12
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 1, 'Happy': 0, 'Neutral': 40, 'Sad': 36, 'Surprise': 2}",[],11,3,40
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 4, 'Disgust': 0, 'Fear': 2, 'Happy': 0, 'Neutral': 81, 'Sad': 93, 'Surprise': 10}",[],39,12,81
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 5, 'Disgust': 0, 'Fear': 5, 'Happy': 2, 'Neutral': 65, 'Sad': 12, 'Surprise': 2}","[2, 3]",6,7,65
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 14, 'Disgust': 0, 'Fear': 5, 'Happy': 2, 'Neutral': 100, 'Sad': 12, 'Surprise': 5}","[2, 3, 1]",1,10,100
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 15, 'Disgust': 0, 'Fear': 5, 'Happy': 2, 'Neutral': 152, 'Sad': 12, 'Surprise': 5}","[2, 3, 1, 2]",1,10,152
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 9, 'Happy': 98, 'Neutral': 43, 'Sad': 173, 'Surprise': 14}",[0],221,23,43
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 23, 'Neutral': 9, 'Sad': 20, 'Surprise': 6}",[],43,7,9
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 23, 'Neutral': 17, 'Sad': 24, 'Surprise': 6}",[1],47,7,17
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 23, 'Neutral': 28, 'Sad': 24, 'Surprise': 6}",[1],47,7,28
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 26, 'Neutral': 45, 'Sad': 24, 'Surprise': 6}",[1],50,7,45
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 26, 'Neutral': 59, 'Sad': 24, 'Surprise': 6}",[1],50,7,59
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 34, 'Disgust': 0, 'Fear': 27, 'Happy': 14, 'Neutral': 468, 'Sad': 171, 'Surprise': 75}",[3],37,102,468
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 19, 'Disgust': 0, 'Fear': 2, 'Happy': 8, 'Neutral': 395, 'Sad': 10, 'Surprise': 40}",[2],1,42,395
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 19, 'Disgust': 0, 'Fear': 2, 'Happy': 8, 'Neutral': 403, 'Sad': 10, 'Surprise': 65}",[2],1,67,403
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 42, 'Disgust': 0, 'Fear': 6, 'Happy': 14, 'Neutral': 427, 'Sad': 18, 'Surprise': 91}",[2],1,97,427
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 49, 'Sad': 12, 'Surprise': 0}",[],13,0,49
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 49, 'Sad': 14, 'Surprise': 0}",[],15,0,49
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 3, 'Happy': 0, 'Neutral': 60, 'Sad': 28, 'Surprise': 6}",[],7,9,60
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 3, 'Happy': 1, 'Neutral': 88, 'Sad': 30, 'Surprise': 6}",[],10,9,88
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 32, 'Sad': 3, 'Surprise': 9}",[0],1,9,32
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 4, 'Disgust': 0, 'Fear': 15, 'Happy': 1, 'Neutral': 61, 'Sad': 40, 'Surprise': 10}",[0],6,25,61
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 4, 'Disgust': 0, 'Fear': 19, 'Happy': 1, 'Neutral': 74, 'Sad': 55, 'Surprise': 10}",[0],21,29,74
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 6, 'Happy': 21, 'Neutral': 15, 'Sad': 11, 'Surprise': 3}",[],26,9,15
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 6, 'Happy': 21, 'Neutral': 15, 'Sad': 13, 'Surprise': 4}",[],28,10,15
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 6, 'Happy': 22, 'Neutral': 16, 'Sad': 26, 'Surprise': 4}",[],42,10,16
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 6, 'Happy': 22, 'Neutral': 17, 'Sad': 49, 'Surprise': 4}",[],65,10,17
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 5, 'Happy': 0, 'Neutral': 5, 'Sad': 20, 'Surprise': 0}",[0],20,5,5
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 8, 'Happy': 1, 'Neutral': 46, 'Sad': 41, 'Surprise': 0}","[0, 1]",42,8,46
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 11, 'Happy': 1, 'Neutral': 50, 'Sad': 71, 'Surprise': 1}","[0, 1]",72,12,50
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 50, 'Neutral': 0, 'Sad': 0, 'Surprise': 0}",[0],50,0,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 81, 'Neutral': 0, 'Sad': 0, 'Surprise': 0}",[0],81,0,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 43, 'Neutral': 0, 'Sad': 0, 'Surprise': 0}",[0],43,0,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 15, 'Happy': 31, 'Neutral': 16, 'Sad': 2, 'Surprise': 0}",[1],28,15,16
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 15, 'Happy': 49, 'Neutral': 22, 'Sad': 2, 'Surprise': 0}",[1],46,15,22
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 0, 'Happy': 41, 'Neutral': 0, 'Sad': 0, 'Surprise': 13}",[0],4,13,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 0, 'Happy': 61, 'Neutral': 0, 'Sad': 0, 'Surprise': 13}",[0],24,13,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 35, 'Neutral': 20, 'Sad': 20, 'Surprise': 0}",[],55,1,20
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 11, 'Happy': 1, 'Neutral': 30, 'Sad': 7, 'Surprise': 1}",[0],6,12,30
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 4, 'Disgust': 0, 'Fear': 18, 'Happy': 17, 'Neutral': 58, 'Sad': 40, 'Surprise': 4}","[0, 2, 1, 2]",50,22,58
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 1, 'Happy': 20, 'Neutral': 27, 'Sad': 11, 'Surprise': 2}",[],31,3,27
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 40, 'Neutral': 14, 'Sad': 7, 'Surprise': 0}",[3],47,0,14
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 80, 'Neutral': 20, 'Sad': 16, 'Surprise': 0}","[3, 4]",96,0,20
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 152, 'Neutral': 24, 'Sad': 26, 'Surprise': 0}","[3, 4, 3, 4]",178,0,24
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 11, 'Disgust': 1, 'Fear': 6, 'Happy': 2, 'Neutral': 32, 'Sad': 30, 'Surprise': 14}",[],6,21,32
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 1, 'Neutral': 35, 'Sad': 2, 'Surprise': 0}",[],3,0,35
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 31, 'Sad': 0, 'Surprise': 0}",[],0,0,31
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 32, 'Sad': 0, 'Surprise': 0}",[],0,0,32
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 1, 'Neutral': 42, 'Sad': 4, 'Surprise': 0}",[],5,0,42
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 0, 'Neutral': 14, 'Sad': 0, 'Surprise': 0}",[],0,0,14
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 1, 'Happy': 1, 'Neutral': 20, 'Sad': 1, 'Surprise': 1}",[],1,2,20
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 3, 'Disgust': 0, 'Fear': 5, 'Happy': 2, 'Neutral': 2, 'Sad': 3, 'Surprise': 3}",[],5,8,2
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 4, 'Disgust': 0, 'Fear': 6, 'Happy': 3, 'Neutral': 5, 'Sad': 9, 'Surprise': 3}",[],6,9,5
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 6, 'Disgust': 0, 'Fear': 5, 'Happy': 17, 'Neutral': 17, 'Sad': 5, 'Surprise': 28}",[],6,33,17
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 6, 'Disgust': 0, 'Fear': 5, 'Happy': 18, 'Neutral': 19, 'Sad': 5, 'Surprise': 28}",[],7,33,19
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 2, 'Happy': 1, 'Neutral': 9, 'Sad': 12, 'Surprise': 3}",[],14,5,9
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 2, 'Happy': 1, 'Neutral': 32, 'Sad': 19, 'Surprise': 8}",[],21,10,32
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 2, 'Happy': 20, 'Neutral': 8, 'Sad': 3, 'Surprise': 8}",[2],10,10,8
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 2, 'Happy': 38, 'Neutral': 13, 'Sad': 4, 'Surprise': 9}",[2],29,11,13
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 0, 'Happy': 4, 'Neutral': 25, 'Sad': 3, 'Surprise': 0}","[0, 1]",4,0,25
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 0, 'Happy': 13, 'Neutral': 48, 'Sad': 3, 'Surprise': 1}","[0, 1]",13,1,48
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 1, 'Neutral': 10, 'Sad': 1, 'Surprise': 1}",[],2,1,10
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 0, 'Happy': 1, 'Neutral': 18, 'Sad': 1, 'Surprise': 1}",[],2,1,18
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 13, 'Happy': 14, 'Neutral': 5, 'Sad': 0, 'Surprise': 3}",[],14,16,5
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 2, 'Disgust': 0, 'Fear': 17, 'Happy': 15, 'Neutral': 11, 'Sad': 2, 'Surprise': 11}",[],1,28,11
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 17, 'Happy': 0, 'Neutral': 5, 'Sad': 0, 'Surprise': 0}",[],0,17,5
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 30, 'Happy': 0, 'Neutral': 7, 'Sad': 0, 'Surprise': 0}",[],0,30,7
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 4, 'Happy': 0, 'Neutral': 6, 'Sad': 0, 'Surprise': 2}",[],1,6,6
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 17, 'Disgust': 0, 'Fear': 32, 'Happy': 24, 'Neutral': 25, 'Sad': 2, 'Surprise': 17}","[0, 3, 5]",1,49,25
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 40, 'Disgust': 0, 'Fear': 53, 'Happy': 105, 'Neutral': 52, 'Sad': 5, 'Surprise': 18}","[0, 3, 5, 5, 4]",35,71,52
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 5, 'Happy': 34, 'Neutral': 17, 'Sad': 1, 'Surprise': 3}",[1],35,8,17
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 11, 'Disgust': 10, 'Fear': 10, 'Happy': 42, 'Neutral': 23, 'Sad': 1, 'Surprise': 3}","[1, 4]",1,23,23
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 10, 'Happy': 16, 'Neutral': 15, 'Sad': 0, 'Surprise': 7}",[],16,17,15
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 60, 'Disgust': 62, 'Fear': 15, 'Happy': 86, 'Neutral': 43, 'Sad': 0, 'Surprise': 15}","[2, 5]",2,92,43
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 5, 'Happy': 1, 'Neutral': 21, 'Sad': 0, 'Surprise': 0}",[],2,5,21
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 21, 'Happy': 1, 'Neutral': 25, 'Sad': 0, 'Surprise': 0}",[],2,21,25
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 4, 'Happy': 0, 'Neutral': 9, 'Sad': 0, 'Surprise': 2}",[],0,6,9
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 5, 'Happy': 0, 'Neutral': 18, 'Sad': 0, 'Surprise': 2}",[],0,7,18
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 37, 'Happy': 0, 'Neutral': 2, 'Sad': 0, 'Surprise': 0}",[0],0,37,2
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 44, 'Happy': 30, 'Neutral': 3, 'Sad': 0, 'Surprise': 0}",[0],30,44,3
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 12, 'Happy': 1, 'Neutral': 24, 'Sad': 0, 'Surprise': 16}",[0],1,28,24
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 14, 'Happy': 3, 'Neutral': 28, 'Sad': 0, 'Surprise': 29}",[0],3,43,28
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 21, 'Happy': 25, 'Neutral': 3, 'Sad': 0, 'Surprise': 1}",[1],25,22,3
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 38, 'Happy': 0, 'Neutral': 0, 'Sad': 5, 'Surprise': 0}","[0, 1]",5,38,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 0, 'Disgust': 0, 'Fear': 46, 'Happy': 0, 'Neutral': 0, 'Sad': 5, 'Surprise': 0}","[0, 1]",5,46,0
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 6, 'Happy': 0, 'Neutral': 8, 'Sad': 1, 'Surprise': 0}",[],2,6,8
+Emotion Frequency,Blink List,Truth Count,Lie Count,Neutral Count
+"{'Anger': 1, 'Disgust': 0, 'Fear': 7, 'Happy': 0, 'Neutral': 9, 'Sad': 1, 'Surprise': 0}",[],2,7,9
