@@ -36,7 +36,7 @@ Used Tech Stack
 
 #### Install
 
-<!-- 1. Create a virtual environment
+1. Create a virtual environment
 
     `virtualenv venv`
 
@@ -46,23 +46,17 @@ Used Tech Stack
 
 2. Activate it
 
-    `source venv/bin/activate`
+    `source venv/Scripte/activate`
 
 3. Clone the repository and install the packages in the virtual env:
 
     `pip install -r requirements.txt`
 
-4. Add `.env` file.
-
-    `cp .env.dev.sample .env`
-
-5. Add Github client ID and client secret in the `.env` file
+4. Download and install Mongodb Compass
 
 #### Run
 
-1.With the venv activate it, execute:
-
-    python manage.py collectstatic
+<!-- 1.With the venv activate it, execute:
 
 *Note* : Collect static is not necessary when debug is True (in dev mode)
 
@@ -102,4 +96,5 @@ Admin Dashboard:
    ![tia5](https://user-images.githubusercontent.com/84987833/232559113-a81e8a7b-ca15-4986-b01e-41c9aea08da3.png)
       
    ![tia6](https://user-images.githubusercontent.com/84987833/232559215-bbaf1afe-15ad-4be8-a938-b8f7ad018050.png)
+
  -->
