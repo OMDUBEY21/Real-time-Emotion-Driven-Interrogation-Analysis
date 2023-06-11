@@ -36,7 +36,7 @@ Used Tech Stack
 
 #### Install
 
-1. Create a virtual environment
+<!-- 1. Create a virtual environment
 
     `virtualenv venv`
 
@@ -102,3 +102,4 @@ Admin Dashboard:
    ![tia5](https://user-images.githubusercontent.com/84987833/232559113-a81e8a7b-ca15-4986-b01e-41c9aea08da3.png)
       
    ![tia6](https://user-images.githubusercontent.com/84987833/232559215-bbaf1afe-15ad-4be8-a938-b8f7ad018050.png)
+ -->
