@@ -7,7 +7,7 @@
 ## Facial_Analysis_for_Suspect_Interrogation : Criminal investigator 
 
 ### Introduction:
-Facial Analysis for Suspect Interrogation is a real-time machine learning-based application used for detecting suspects in interrogation session with the help of computer vision.
+Facial Analysis for Suspect Interrogation is a real-time machine learning-based application used for detecting suspect with the help of computer vision.
 
 ### Problem statement:
 To elicit confessions from criminal suspects, police officers employ a range of strategies. Law
