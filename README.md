@@ -18,7 +18,7 @@ interrogation contains behavior-provoking questions. However, despite all of the
 cops may still have some questions about whether a particular person has committed a crime
 or not. Therefore, an emotion facial analysis algorithm might be of great help to officers in providing
 them with a general impression of the suspect. During each interrogation, a camera will record
-all of the suspect’s facial expressions. Using an algorithm, these expressions will be transformed
+all of the suspect’s facial expressions and eye blinks. Using an algorithm, these expressions will be transformed
 into a graphical representation, and the investigator will examine the most prevalent expressions
 in this frame of the graph to reach a preliminary determination of whether the suspect is telling
 the truth or not which will furthere generate a report of overall session investigation and helps the
