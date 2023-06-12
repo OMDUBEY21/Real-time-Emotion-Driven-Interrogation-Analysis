@@ -22,7 +22,7 @@ all of the suspect’s facial expressions. Using an algorithm, these expressions
 into a graphical representation, and the investigator will examine the most prevalent expressions
 in this frame of the graph to reach a preliminary determination of whether the suspect is telling
 the truth or not which will furthere generate a report of overall session investigation and helps the
-investigator to find the suspect to be criminal or not.
+investigator to conclude whether the suspect is criminal or not.
 
 Used Tech Stack
 1. Keras
