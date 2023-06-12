@@ -52,49 +52,22 @@ Used Tech Stack
 
     `pip install -r requirements.txt`
 
-4. Download and install Mongodb Compass
-
-#### Run
-
-<!-- 1.With the venv activate it, execute:
-
-*Note* : Collect static is not necessary when debug is True (in dev mode)
-
-2. Create initial database:
-
-    `python manage.py migrate`
-
-
-3. Load demo data (optional):
-
-    `python manage.py loaddata fixtures/app_name_initial_data.json --app app.model_name`
-
-4. Run server:
-
-    `python manage.py runserver`
-    
-    
- #### Results--
-
+4. Download and install Mongodb Compass:
+       Create Database EmDetect & Collection as reports
     
 Home page:
     
-![tia1](https://user-images.githubusercontent.com/84987833/232560927-5d46da1d-a558-46e2-861b-5ebc47185162.png)
+![p1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/c6033c2a-6683-49bb-8109-bdf87f509a43)
 
-![tia2](https://user-images.githubusercontent.com/84987833/232560974-0798ddf5-cddf-4327-9783-1793893f0075.png)
+![1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/a8ae4e33-f490-4c4e-9aff-2f167adcde69)
 
-![tia3](https://user-images.githubusercontent.com/84987833/232561065-8f69c756-7bec-4c91-a3ed-7236e94734e7.png)
+![3](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/0decac6d-d47c-46be-b339-37beeab2ab68)
 
-Applied Jobs:
-    
-   ![tiaa4](https://user-images.githubusercontent.com/84987833/232558918-a51dbd84-b7d2-4217-b4ba-52173f28db85.png)
-   
+![4](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/a3a60b05-8adc-4dbd-95da-07975f69a30d)
 
-Admin Dashboard:
-    
-    
-   ![tia5](https://user-images.githubusercontent.com/84987833/232559113-a81e8a7b-ca15-4986-b01e-41c9aea08da3.png)
-      
-   ![tia6](https://user-images.githubusercontent.com/84987833/232559215-bbaf1afe-15ad-4be8-a938-b8f7ad018050.png)
+![t2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/64798c66-2ac8-4ce7-8916-b7cb06b5bdaa)
 
- -->
+Report:
+    ![l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/37e27a7e-8889-4989-a581-1c5cf3e3dff6)
+
+   ![l2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/e33b8e4c-f8fe-4ef6-b350-f095428f63bc)
