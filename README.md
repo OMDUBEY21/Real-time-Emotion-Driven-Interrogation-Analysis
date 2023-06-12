@@ -56,7 +56,7 @@ Used Tech Stack
        Create Database EmDetect & Collection as reports
     
 Home page:
-    
+    Main GUI
 ![p1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/9d1c2e01-59f2-43dc-a702-fcf5ca6fcd19)
 ![p2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef7e06d8-c66b-41fb-8be5-8af020405231)
 ![p3](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/eeac3304-bea1-4cf7-9e46-73cedc5bcae6)
