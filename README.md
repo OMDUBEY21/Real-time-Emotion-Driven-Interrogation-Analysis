@@ -87,7 +87,7 @@ At the conclusion of the interrogation, a final PDF file is generated that provi
    ![l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/fb579434-cf33-463a-8d6b-23caf353e059)
    <br>
    <br>
-   Backend of session 1:
+   Database of session 1:
    
    ![l1r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/306af9db-ea75-484b-97d7-32b1632399ab)
     <br>
@@ -97,7 +97,7 @@ At the conclusion of the interrogation, a final PDF file is generated that provi
    ![l2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7467c58a-cff8-42c5-83d6-df5cedd959a2)
    <br>
    <br>
-   Backend of session 3:
+   Database of session 3:
    
    ![l2r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7ad159aa-fd40-4ff9-9007-810a50f51fc1)    
 
