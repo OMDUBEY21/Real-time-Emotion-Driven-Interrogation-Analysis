@@ -77,21 +77,26 @@ Overall: Now, This is the overall graph generated representing the cumulative fa
 
 
 Report:
+<br>
 At the conclusion of the interrogation, a final PDF file is generated that provides the interrogator with valuable insights regarding the potential involvement of the suspect in the crime. This PDF report includes the collected data from each interrogation session, which is stored in the backend database i.e MongoDB. The information presented in the report aids the interrogator in making informed decisions and forming rough conclusions about the suspect's culpability based on the data analysis and assessment of their responses throughout the interrogation process.
 <br>
 <br>
 
    Session 1 Report:
+   
    ![l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/fb579434-cf33-463a-8d6b-23caf353e059)
    <br>
    Backend of session 1:
+   
    ![l1r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/306af9db-ea75-484b-97d7-32b1632399ab)
     <br>
     <br>
     Session 3 Report:
+    
    ![l2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7467c58a-cff8-42c5-83d6-df5cedd959a2)
    <br>
    Backend of session 3:
+   
    ![l2r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7ad159aa-fd40-4ff9-9007-810a50f51fc1)    
 
     
