@@ -64,7 +64,7 @@ Happy: The graph displaying a happy face indicates that the suspect is expressin
 ![p2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef7e06d8-c66b-41fb-8be5-8af020405231)
 <br>
 <br>
-FEarful: The graph displays a fearful facial expression exhibited by the suspect when asked questions related to the crime during the interrogation. This expression suggests that the suspect may be lying or experiencing fear and anxiety in response to those specific questions.
+Fearful: The graph displays a fearful facial expression exhibited by the suspect when asked questions related to the crime during the interrogation. This expression suggests that the suspect may be lying or experiencing fear and anxiety in response to those specific questions.
 ![p3](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/eeac3304-bea1-4cf7-9e46-73cedc5bcae6)
 <br>
 <br>
@@ -77,8 +77,9 @@ Overall: Now, This is the overall graph generated representing the cumulative fa
 
 
 Report:
-    ![l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/fb579434-cf33-463a-8d6b-23caf353e059)
-    ![l1r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/306af9db-ea75-484b-97d7-32b1632399ab)
+
+   [l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/fb579434-cf33-463a-8d6b-23caf353e059)
+   ![l1r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/306af9db-ea75-484b-97d7-32b1632399ab)
     
    ![l2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7467c58a-cff8-42c5-83d6-df5cedd959a2)
    ![l2r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7ad159aa-fd40-4ff9-9007-810a50f51fc1)    
