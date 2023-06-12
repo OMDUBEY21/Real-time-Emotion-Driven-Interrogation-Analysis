@@ -55,15 +55,20 @@ Used Tech Stack
 4. Download and install Mongodb Compass:
        Create Database EmDetect & Collection as reports
     
-Home page:
-<br>
-    Main GUI
+GUI:
+
 ![p1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/9d1c2e01-59f2-43dc-a702-fcf5ca6fcd19)
+<br>
+The graph displaying a happy face indicates that the suspect is expressing happiness when answering questions related to the crime during the interrogation. This suggests that the suspect may be telling the truth that he/she is not having any involvement in the crime.
 ![p2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef7e06d8-c66b-41fb-8be5-8af020405231)
+<br>
+The graph displays a fearful facial expression exhibited by the suspect when asked questions related to the crime during the interrogation. This expression suggests that the suspect may be lying or experiencing fear and anxiety in response to those specific questions.
 ![p3](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/eeac3304-bea1-4cf7-9e46-73cedc5bcae6)
+<br>
+Here, The presence of a surprising expression on the graph during the interrogation period indicates that the suspect is visibly surprised by a provocative question, and the graph accurately reflects the suspect's real-time emotional response. 
 ![p5](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef772395-1f52-4ce1-942d-6618109884ed)
-
-
+<br>
+Now, This is the overall graph generated representing the cumulative facial expressions of the suspect throughout the entire interrogation session, specifically when asked questions pertaining to the crime. 
 ![overall](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7c7f1a7d-4ba4-4c5f-9127-d755eb924527)
 
 
