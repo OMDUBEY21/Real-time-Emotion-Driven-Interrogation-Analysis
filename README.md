@@ -57,17 +57,20 @@ Used Tech Stack
     
 Home page:
     
-![p1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/c6033c2a-6683-49bb-8109-bdf87f509a43)
+![p1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/9d1c2e01-59f2-43dc-a702-fcf5ca6fcd19)
+![p2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef7e06d8-c66b-41fb-8be5-8af020405231)
+![p3](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/eeac3304-bea1-4cf7-9e46-73cedc5bcae6)
+![p5](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef772395-1f52-4ce1-942d-6618109884ed)
 
-![1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/a8ae4e33-f490-4c4e-9aff-2f167adcde69)
 
-![3](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/0decac6d-d47c-46be-b339-37beeab2ab68)
+![overall](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7c7f1a7d-4ba4-4c5f-9127-d755eb924527)
 
-![4](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/a3a60b05-8adc-4dbd-95da-07975f69a30d)
-
-![t2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/64798c66-2ac8-4ce7-8916-b7cb06b5bdaa)
 
 Report:
-    ![l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/37e27a7e-8889-4989-a581-1c5cf3e3dff6)
+    ![l1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/fb579434-cf33-463a-8d6b-23caf353e059)
+    ![l1r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/306af9db-ea75-484b-97d7-32b1632399ab)
+    
+   ![l2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7467c58a-cff8-42c5-83d6-df5cedd959a2)
+   ![l2r](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/7ad159aa-fd40-4ff9-9007-810a50f51fc1)    
 
-   ![l2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/e33b8e4c-f8fe-4ef6-b350-f095428f63bc)
+    
