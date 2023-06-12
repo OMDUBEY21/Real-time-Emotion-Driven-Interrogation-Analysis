@@ -59,6 +59,7 @@ GUI:
 
 ![p1](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/9d1c2e01-59f2-43dc-a702-fcf5ca6fcd19)
 <br>
+<br>
 The graph displaying a happy face indicates that the suspect is expressing happiness when answering questions related to the crime during the interrogation. This suggests that the suspect may be telling the truth that he/she is not having any involvement in the crime.
 ![p2](https://github.com/OMDUBEY21/Facial_Analysis_for_Suspect_Interrogation/assets/84987833/ef7e06d8-c66b-41fb-8be5-8af020405231)
 <br>
