@@ -4,7 +4,7 @@
 
 </div>
 
-//## Facial_Analysis_for_Suspect_Interrogation : Criminal investigator 
+## CrimiFace: Real-time Interrogation Facial Analysis
 
 ### Introduction:
 Facial Analysis for Suspect Interrogation is a real-time machine learning-based application used for detecting suspect with the help of computer vision.
