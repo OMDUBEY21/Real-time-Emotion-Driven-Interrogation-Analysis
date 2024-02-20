@@ -1,7 +1,6 @@
  <div align="center">
 
-# Real-time Emotion-Driven Interrogation Analysis
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OMDUBEY21)](https://github.com/OMDUBEY21/github-readme-stats) 
+# Real-time Emotion-Driven Interrogation Analysis 
 
 </div>
 
